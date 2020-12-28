@@ -975,7 +975,7 @@
  *
  *     +-- BACK ---+
  *     |    [+]    |
- *   L |        1  | R <-- Example "1" (right+,  back+)Christian
+ *   L |        1  | R <-- Example "1" (right+,  back+)
  *   E |  2        | I <-- Example "2" ( left-,  back+)
  *   F |[-]  N  [+]| G <-- Nozzle
  *   T |       3   | H <-- Example "3" (right+, front-)
